@@ -34,12 +34,3 @@ go.work.sum
 *.njsproj
 *.sln
 *.sw?
-
-# env
-configs/stp-platform-backend-apiserver.yaml
-
-# log
-*.log
-
-# script
-scripts/data/*
